@@ -1,0 +1,15 @@
+
+
+Usage: process_events.rb [options]
+    -f, --file FILE                  Input for reading events json file
+    -l, --log LOGFILE                Path to log file for dumping output
+    -v, --verbose                    Increase log output messages to info
+
+
+Example:
+
+./bin/process_events.rb -f ./events.json 
+
+Jessica: 17 points with 8 points per order.
+Will: 0 points with 0 points per order.
+Elizabeth: 0 points with 0 points per order.
